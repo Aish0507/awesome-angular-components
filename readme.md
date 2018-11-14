@@ -340,6 +340,7 @@
 *Layout the overall / main view*
 
  - [angular2-grid](https://github.com/BTMorton/angular2-grid) - A grid-based drag/drop/resize directive plugin for Angular 2.
+ - [angular-fullpage](https://github.com/alvarotrigo/angular-fullpage) - Official Angular component for fullPage.js, a fullscreen scrolling library.
  - [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) - Angular 2 fullpage scrolling.
  - [angular-split](https://github.com/bertrandg/angular-split) - Angular (2+) UI library to split views.
  - [ngresizable](https://github.com/mgechev/ngresizable) - Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular
